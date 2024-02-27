@@ -2,7 +2,7 @@
 
 Excel is a powerful tool that allows users to create, manage, and analyze data in a tabular format.
 
-During my Economics academic journey, I solved different Financial exercises. In this repository you will find exercises and solutions for this problems:
+During my Economics academic journey, I solved different Financial exercises. In this repository you will find exercises and solutions for these problems:
 
 * Capital Budgeting: a financial process used by companies to evaluate and make decisions about long-term investments in projects or assets. The goal of this problem is to maximize the Net Present Value (NPV), following specific business constraints.
 * Conditional Probabilities: refer to the probabilities of an event occurring given that another event has already occurred. It involves assessing the likelihood of a specific outcome or event under the condition that certain information or criteria are known. Conditional probabilities are particularly relevant in decision-making and risk management within business contexts.
